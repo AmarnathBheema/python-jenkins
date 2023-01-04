@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo yum -y install git
 git clone https://github.com/AmarnathBheema/python-app.git
 cd python-app
 sudo yum -y install python3-pip
